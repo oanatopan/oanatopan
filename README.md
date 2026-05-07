@@ -1,21 +1,22 @@
 ## 👋 Hi, I’m Oana Topan
 
-💻 QA Automation Engineer | Java, Selenium, TestNG | End-to-End Automation
+💻 QA Automation | Selenium • Java • TestNG • CI/CD • Database Testing
 
 ---
 
 ## 🚀 About Me
 
-I design and build maintainable test automation frameworks focused on real application workflows.
+I have built an end-to-end UI automation framework for real-world banking workflows using Selenium WebDriver, TestNG, and the Page Object Model.
 
-My work combines UI automation, database integration, and CI/CD pipelines to ensure reliable and scalable test execution.
+My work integrates UI automation, database-driven test data, and CI/CD pipelines to support reliable, maintainable, and scalable test execution.
+
+I focus on automating real user behavior and validating complete business flows rather than isolated test cases.
 
 ---
 
 ## 🧪 QA Automation Projects
 
-### 🔹 UI Automation – ParaBank Framework
-
+🔹 **UI Automation – ParaBank Framework**  
 End-to-end automation framework covering core banking scenarios:
 
 - user registration  
@@ -26,16 +27,16 @@ End-to-end automation framework covering core banking scenarios:
 - transaction validation  
 
 **Tech implementation:**
-- Selenium WebDriver (Java)
-- TestNG
-- Page Object Model (POM)
-- Allure Reporting (logs + screenshots)
-- GitHub Actions (CI/CD pipelines)
-- MySQL database integration (JDBC)
+- Selenium WebDriver (Java)  
+- TestNG  
+- Page Object Model (POM)  
+- Allure Reporting (logs + screenshots)  
+- GitHub Actions (CI/CD pipelines)  
+- MySQL database integration (JDBC)  
 
 ---
 
-### 🔹 API Automation
+🔹 **API Automation**
 
 - REST API testing using Postman  
 - building API automation with REST Assured  
@@ -58,9 +59,9 @@ End-to-end automation framework covering core banking scenarios:
 
 ## 🎯 Current Focus
 
-- improving test stability and synchronization  
-- expanding API automation coverage  
-- building scalable automation frameworks  
+➤ Improving test stability and synchronization  
+➤ Expanding API automation coverage  
+➤ Building scalable automation frameworks  
 
 ---
 
@@ -73,5 +74,5 @@ End-to-end UI automation project with CI pipelines, database-driven test data, a
 
 ## 📫 Contact
 
-Email: oanadanatopan@gmail.com  
-LinkedIn: https://www.linkedin.com/in/oanatopan/
+📧 Email: oanadanatopan@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/oanatopan/
